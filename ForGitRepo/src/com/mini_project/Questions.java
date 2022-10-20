@@ -1,5 +1,5 @@
 package com.mini_project;
-
+//forgit
 public class Questions   {
 	private String Que;
 	private String Opt_A;
